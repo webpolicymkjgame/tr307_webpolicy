@@ -89,8 +89,9 @@ function HomePage() {
             If you have any questions about this Privacy Policy, request support, please contact us at:<br />
             <a href="mailto:tu885249@gmail.com">tu885249@gmail.com</a><br />
             <span style={{ display: 'inline-block', marginTop: '10px' }}>
-              🏠 9424 Gentle Cir
-                Montgomery Village - 20886
+              🏠 Benchwarmers Media
+                110 Barton Ct
+                Wayzata - 55391
                 United States (US)
             </span>
           </p>
